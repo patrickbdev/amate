@@ -21,3 +21,5 @@ Copies the letter a/A to the clipboard so you can paste it with CMD+V.
 
 ## Do people really need this?
 Noone chooses the cards they're dealt in life. Sometimes we need to look after those that are truly struggling.
+
+![Facepalm](Images/facepalm.jpg)
